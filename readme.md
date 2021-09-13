@@ -1,8 +1,6 @@
 # Java FAQ
-## By Ryiz
 ## Author:
-# - [VK 🍉](https://vk.com/id663081948) - 
-# - [TELEGRAM 🍇](https://t.me/RyizJVAml) 
+# - [VK 🍉](https://vk.com/id663081948) | [TELEGRAM 🍇](https://t.me/RyizJVAml) 
 
 
 ____________________________________________________________________________________________________
