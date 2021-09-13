@@ -45,19 +45,19 @@ ________________________________________________________________________________
 # 💭 Материалы для изучения алгоритмов и структур данных
 
 ____________________________________________________________________________________________________
-# 🔱 Frameworks
-# | Frameworks | links |
-# |----|----|
-# | Spring 🍃 | [links](https://spring.io/) |
-# | Spring boot | [links]() |
-# | Play | [links]() |
-# | Hibernate | [links]() |
-# | Vaadin | [links]() |
-# | MapStruct | [links]() |
-# | Lombok | [links]() |
-# | Apache POI | [links]() |
-# | Liquibase/ FlyWay | [links]() |
-# | Testcontainers | [links]() |
-# | DbUtils | [links]() |
-# | IO | [links]() |
+ 🔱 Frameworks
+ | Frameworks | links | 
+ |----|----|
+ | Spring 🍃 | [links](https://spring.io/) |
+ | Spring boot | [links]() |
+ | Play | [links]() |
+ | Hibernate | [links]() |
+ | Vaadin | [links]() |
+ | MapStruct | [links]() |
+ | Lombok | [links]() |
+ | Apache POI | [links]() |
+ | Liquibase/ FlyWay | [links]() |
+ | Testcontainers | [links]() |
+ | DbUtils | [links]() |
+ | IO | [links]() |
 
