@@ -12,19 +12,8 @@ ________________________________________________________________________________
 - hello
 - hello
 
-+ hello
-+ hello
-+ hello
-
-* hello
-* hello
-* hello
-
 # 🎬 Учебные материалы
 ____________________________________________________________________________________________________
-
-
-
 
 
 
@@ -32,7 +21,7 @@ ________________________________________________________________________________
 # 📚 Книги для начинающих:
 ____________________________________________________________________________________________________
 
-
+# [Книги в телеграмме🦩](https://t.me/joinchat/OzGup8um2Tk0Mjhi)
 
 
 
@@ -43,24 +32,8 @@ ________________________________________________________________________________
  | Themes | links |
  |----|----|
  | Java begin | [click me](https://youtube.com/playlist?list=PLAma_mKffTOSUkXp26rgdnC0PicnmnDak) |
- | Java core | [click me]() |
- |  | [click me](https://youtube.com/playlist?list=PL786bPIlqEjRDXpAKYbzpdTaOYsWyjtCX) |
- |  | [click me]() |
- |  | [click me]() |
- |  | [click me]() |
- |  | [click me]() |
- |  | [click me]() |
- |  | [click me]() |
- |  | [click me]() |
- |  | [click me]() |
- |  | [click me]() |
- |  | [click me]() |
- |  | [click me]() |
- |  | [click me]() |
- |  | [click me]() |
- |  | [click me]() |
- |  | [click me]() |
- |  | [click me]() |
+ | Java core | [click me](https://youtube.com/playlist?list=PL786bPIlqEjRDXpAKYbzpdTaOYsWyjtCX) |
+ | GIT | [click me](https://youtube.com/playlist?list=PLDyvV36pndZFHXjXuwA_NywNrVQO0aQqb) |
  |  | [click me]() |
  |  | [click me]() |
 
@@ -71,10 +44,7 @@ ________________________________________________________________________________
 
 # 💭 Материалы для изучения алгоритмов и структур данных
 ____________________________________________________________________________________________________
-➛ |||
-➛
-➛
-➛
+
 
 # 🔱 Frameworks
 | Frameworks | links |
