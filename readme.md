@@ -68,7 +68,18 @@ ________________________________________________________________________________
 | Frameworks | links |
 |----|----|
 | Spring | [links](https://spring.io/) |
-| Maven | |
+| Spring boot | [links]() |
+| Play | [links]() |
+| Hibernate | [links]() |
+| Vaadin | [links]() |
+| MapStruct | [links]() |
+| Lombok | [links]() |
+| Apache POI | [links]() |
+| Liquibase/ FlyWay | [links]() |
+| Testcontainers | [links]() |
+| DbUtils | [links]() |
+| IO | [links]() |
+
 ## Author:
 - [Ryiz](https://vk.com/id663081948) - vk
 - [Ryiz](https://t.me/RyizJVAml) - telegram
