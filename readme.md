@@ -2,10 +2,10 @@
 # Author - [VK 🍉](https://vk.com/id663081948) | [TELEGRAM 🍇](https://t.me/RyizJVAml) 
 ____________________________________________________________________________________________________
 # 🏆 Ресурсы с задачами для практики и тренировок
- - # [HackerRank](https://www.hackerrank.com/domains/cpp)
- - # [CodeForces](https://codeforces.com/)
- - # [Kata](https://www.codewars.com/kata/search/cpp?q=&&beta)
- - # [LeetCode](https://leetcode.com/)
+ - ## [HackerRank](https://www.hackerrank.com/domains/cpp)
+ - ## [CodeForces](https://codeforces.com/)
+ - ## [Kata](https://www.codewars.com/kata/search/cpp?q=&&beta)
+ - ## [LeetCode](https://leetcode.com/)
 ____________________________________________________________________________________________________
 # 📚 Книги для начинающих:
 ##      [Книги в телеграмме🦩](https://t.me/joinchat/OzGup8um2Tk0Mjhi)
