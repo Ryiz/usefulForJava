@@ -65,9 +65,10 @@ ________________________________________________________________________________
 ____________________________________________________________________________________________________
 
 # 🔱 Frameworks
-| Frameworks || links |
-|----||----|
-| Spring || [links](https://spring.io/) |
+| Frameworks | links |
+|----|----|
+| Spring | [links](https://spring.io/) |
+| Maven | |
 ## Author:
 - [Ryiz](https://vk.com/id663081948) - vk
 - [Ryiz](https://t.me/RyizJVAml) - telegram
