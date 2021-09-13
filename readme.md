@@ -31,28 +31,28 @@ ________________________________________________________________________________
 # 📚 Книги для начинающих:
 ____________________________________________________________________________________________________
 
-➛ |Themes|links|
-➛ | Java begin | [click me]() |
-➛ | Java core | [click me]() |
-➛ |  | [click me]() |
-➛ |  | [click me]() |
-➛ |  | [click me]() |
-➛ |  | [click me]() |
-➛ |  | [click me]() |
-➛ |  | [click me]() |
-➛ |  | [click me]() |
-➛ |  | [click me]() |
-➛ |  | [click me]() |
-➛ |  | [click me]() |
-➛ |  | [click me]() |
-➛ |  | [click me]() |
-➛ |  | [click me]() |
-➛ |  | [click me]() |
-➛ |  | [click me]() |
-➛ |  | [click me]() |
-➛ |  | [click me]() |
-➛ |  | [click me]() |
-➛ |  | [click me]() |
+ |Themes|links|
+ | Java begin | [click me]() |
+ | Java core | [click me]() |
+ |  | [click me]() |
+ |  | [click me]() |
+ |  | [click me]() |
+ |  | [click me]() |
+ |  | [click me]() |
+ |  | [click me]() |
+ |  | [click me]() |
+ |  | [click me]() |
+ |  | [click me]() |
+ |  | [click me]() |
+ |  | [click me]() |
+ |  | [click me]() |
+ |  | [click me]() |
+ |  | [click me]() |
+ |  | [click me]() |
+ |  | [click me]() |
+ |  | [click me]() |
+ |  | [click me]() |
+ |  | [click me]() |
 
 
 
